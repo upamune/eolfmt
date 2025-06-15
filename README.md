@@ -1,6 +1,7 @@
 # eolfmt
 
-![logo](https://i.gyazo.com/1dfcfa8453af6b93202170afe2e63495.jpg)
+<img src="https://i.gyazo.com/1dfcfa8453af6b93202170afe2e63495.jpg" alt="Logo" width="500">
+
 
 A high-performance tool for fixing line endings. It recursively scans directories and adds missing newlines to the end of text files.
 
